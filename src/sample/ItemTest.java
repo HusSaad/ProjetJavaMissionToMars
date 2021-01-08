@@ -7,11 +7,10 @@ import static org.junit.jupiter.api.Assertions.*;
 class ItemTest {
 
     @Test
-
     void getWeight() {
-        Item i=new Item("item1", 10);
+        Item i=new Item("item number 1", 20);
 
-        assertEquals(10,i.getWeight());
+        assertEquals(25,i.getWeight());
 
     }
 }

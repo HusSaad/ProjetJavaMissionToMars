@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="306.7952548743246" y="349.0">sample.Rocket</node>
+    <node x="263.5452548743246" y="179.0">sample.Spaceship</node>
+    <node x="363.74204629349964" y="1071.0">sample.Main</node>
+    <node x="301.02560908084166" y="696.0">sample.U1</node>
+    <node x="461.02560908084166" y="696.0">sample.U2</node>
+    <node x="225.426207255277" y="891.0">sample.RocketTest</node>
+    <node x="375.7506120171817" y="891.0">sample.Simulation</node>
+    <node x="283.0452548743246" y="0.0">sample.Item</node>
+    <node x="475.5438290714453" y="1242.0">sample.Controller</node>
+    <node x="10.5" y="212.0">sample.ItemTest</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="sample.Rocket" target="sample.Spaceship">
+      <point x="-65.33333333333331" y="-138.5" />
+      <point x="339.4619215409913" y="324.0" />
+      <point x="350.5452548743246" y="324.0" />
+      <point x="0.0" y="60.0" />
+    </edge>
+    <edge source="sample.U2" target="sample.Rocket">
+      <point x="34.75" y="-72.5" />
+      <point x="565.2756090808416" y="656.0" />
+      <point x="470.1285882076579" y="656.0" />
+      <point x="65.33333333333331" y="138.5" />
+    </edge>
+    <edge source="sample.U1" target="sample.Rocket">
+      <point x="34.75" y="-72.5" />
+      <point x="0.0" y="138.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5497790868924889" x="619.0" y="643.0340208947227" />
+  <SelectedNodes>
+    <node>sample.Rocket</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

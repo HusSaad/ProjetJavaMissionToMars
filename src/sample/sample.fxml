@@ -44,7 +44,7 @@
                <font>
                   <Font size="13.0" />
                </font></Button>
-            <Label layoutX="275.0" prefHeight="14.0" prefWidth="314.0" text="Mission To Mars" textAlignment="JUSTIFY" textFill="#1d08ff">
+            <Label layoutX="275.0" layoutY="-3.0" prefHeight="14.0" prefWidth="314.0" text="Mission To Mars" textAlignment="JUSTIFY" textFill="#1d08ff">
                <font>
                   <Font name="System Bold Italic" size="24.0" />
                </font>

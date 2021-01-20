@@ -21,8 +21,8 @@ class RocketTest {
     @Test
     void carry(){
         U1 rocket = new U1();
-        Item item1 = new Item("Item 1", 14);
-        Item item2 = new Item("Item 2", 23);
+        Item item1 = new Item("Item 1", 50);
+        Item item2 = new Item("Item 2", 60);
 
         rocket.carry(item1);
         assertEquals(50, rocket.getRocketWeight());
